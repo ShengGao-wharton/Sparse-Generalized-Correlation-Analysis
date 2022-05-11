@@ -1,4 +1,4 @@
-# Code for Sparse GCA
+# MATLAB Code for Sparse GCA
 
 We provide the code of our paper: Sparse GCA and Thresholded Gradient Descent.
 
