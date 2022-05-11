@@ -1,2 +1,2 @@
-# Sparse-Generalized-Correlation-Analysis
-MATLAB Code for sparse GCA
+# Sparse Generalized Correlation Analysis
+MATLAB Code and R Code for sparse GCA
