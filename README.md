@@ -9,7 +9,7 @@ For details of the algorithm, please check at https://arxiv.org/abs/2107.00371.
 
 ## Algorithm
 
-Sparse Generalized Correlation Analysis is based on thresholded gradient descent with generalized Fantope initialization.
+Sparse Generalized Correlation Analysis is based on thresholded gradient descent with generalized Fantope projection as initialization.
 
 ## Implementation
 
