@@ -17,7 +17,7 @@ Our algorithm for solving sparse GCA is based on thresholded gradient descent (T
 
 ## Implementation
 
-The algorithm is implemented in both MATLAB and R. For details of the implementation and tutorials, please find in `src/MATLAB Code`  and `src/R Code`.
+The algorithm is implemented in both MATLAB and R. For details of the implementation, please find in `src/MATLAB Code`  and `src/R Code`. Examples of using our algorithm can be found in `tutorials/MATLAB examples`  and `tutorials/R examples`.
 
 ## Citation 
 
