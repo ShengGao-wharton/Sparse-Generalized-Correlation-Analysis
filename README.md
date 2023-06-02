@@ -25,10 +25,14 @@ If you find our work interesting or useful for your research. Please cite our wo
 
 ### Reference
 ```
-@article{gao2021sparse,
-  title={Sparse gca and thresholded gradient descent},
-  author={Gao, Sheng and Ma, Zongming},
-  journal={arXiv preprint arXiv:2107.00371},
-  year={2021}
+@article{JMLR:v24:21-0745,
+  author  = {Sheng Gao and Zongming Ma},
+  title   = {Sparse GCA and Thresholded Gradient Descent},
+  journal = {Journal of Machine Learning Research},
+  year    = {2023},
+  volume  = {24},
+  number  = {135},
+  pages   = {1--61},
+  url     = {http://jmlr.org/papers/v24/21-0745.html}
 }
 ```
