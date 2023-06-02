@@ -9,7 +9,7 @@ Generalized correlation analysis (GCA) is concerned with uncovering linear relat
 
 This repository is the official implementation of our algorithm for sparse GCA in MATLAB and R.
 
-For details of the algorithm, please check at https://arxiv.org/abs/2107.00371.
+For details of the algorithm, please check at https://www.jmlr.org/papers/v24/21-0745.html.
 
 ## Algorithm
 
